@@ -1,16 +1,17 @@
-### Hi there 👋
+### Olá, eu sou o David Henrique. 🙋
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-henrique-dev/)
 
-<!--
-**DavidHenriqueGama/DavidHenriqueGama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![David Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidHenriqueGama&show_icons=true&theme=onedark)
 
-Here are some ideas to get you started:
+## Tecnologias do meu dia: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style= "display: inline_block"><br/>
+    <img align= "center" alt="html15" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+        <img align= "center" alt="html15" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</div<br/>>
+
+Sou um estudante de tecnologia que busca por seu primeiro estágio. 
+Tenho conhecimento nas linguagens Java e Python.
+
+Um sonho é apenas um desejo, até o momento em que você começa a atuar sobre ele, e propõe-se a transformá-lo em uma meta.
+(Mary Kay Ash)
