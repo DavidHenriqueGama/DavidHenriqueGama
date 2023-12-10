@@ -3,6 +3,8 @@
 
 ![David Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidHenriqueGama&show_icons=true&theme=onedark)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidHenriqueGama)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Tecnologias do meu dia: 
 
 <div style= "display: inline_block"><br/>
